@@ -1,0 +1,35 @@
+Adding an Executable as an Exception in Windows Defender
+Adding an executable to the exception list in Windows Defender ensures that the antivirus will not flag it during scans. Follow these steps to exclude a specific executable file:
+
+Step 1: Open Windows Security
+Click on the Start button (or press the Windows key).
+
+Type Windows Security in the search bar and press Enter.
+
+Click on the Windows Security app to open it.
+
+Step 2: Navigate to Virus & Threat Protection
+In the Windows Security window, click on Virus & threat protection from the left-hand menu.
+
+Step 3: Manage Settings
+Under the Virus & threat protection settings section, click on Manage settings.
+
+Step 4: Add or Remove Exclusions
+Scroll down to the Exclusions section.
+
+Click on Add or remove exclusions.
+
+Step 5: Add an Exclusion
+Click on the Add an exclusion button.
+
+From the drop-down menu, select File.
+
+Step 6: Select the Executable
+Navigate to the location of the executable file you want to exclude.
+
+Select the executable file and click on Open.
+
+Step 7: Confirmation
+The selected executable file will now appear in the list of exclusions.
+
+Close the Windows Security window.
